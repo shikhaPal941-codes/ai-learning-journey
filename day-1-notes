@@ -1,0 +1,27 @@
+19-02-2026
+node js project 
+mkdir ai-day1
+cd ai-day1
+npm init -y
+npm install openai dotenv
+What problems did I face today?
+
+ES module error
+
+PATH issue
+
+ECONNREFUSED
+
+404 model not found
+
+2️⃣ What did I learn?
+
+Node module systems
+
+Environment setup
+
+Local LLM infra
+
+Backend → AI communication
+
+Debugging ports & APIs
